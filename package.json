@@ -1,0 +1,24 @@
+{
+  "name": "@syntro-opensource/browserslist-config-base",
+  "version": "1.0.0",
+  "description": "A reusable browserslist config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntro-opensource/browserslist-config-base.git"
+  },
+  "keywords": [
+    "broserslist",
+    "browserslist-config",
+    "syntro"
+  ],
+  "author": "Syntro GmbH",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/syntro-opensource/browserslist-config-base/issues"
+  },
+  "homepage": "https://github.com/syntro-opensource/browserslist-config-base#readme"
+}
